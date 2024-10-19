@@ -1,6 +1,4 @@
 
-
-//  for user name 
 $(document).ready(function(){
     $(".submit").click(function(event){
      event.preventDefault();
